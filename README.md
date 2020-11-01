@@ -6,4 +6,4 @@ Jupyter Notebooks to demonstrate, organize, and consolidate new features in Pyth
 
 ### `01-code-scripts/`
 
-Contains all Jupyter Notebook files to demonstrate the new features in Python releases. The folder currently contains Notebooks for Python 3.8 (October 2019) and Python 3.9 (October 2020).
+Contains all Jupyter Notebook files to demonstrate new features in Python releases. The folder currently contains Notebooks for Python 3.8 (October 2019) and Python 3.9 (October 2020).
