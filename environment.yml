@@ -1,0 +1,12 @@
+name: python39
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Main Python
+  - python=3.9
+
+  # Jupyter environment
+  - notebook
